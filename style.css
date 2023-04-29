@@ -14,6 +14,25 @@ html,body{
 }
 #page{
     height: 100vh;
-    width: 100vh;
+    width: 100vw;
     background-color: aqua;
+}
+#page1{
+    height: 100vh;
+    width: 100vw;
+    background-color: rgb(167, 230, 7);
+}
+#page2{
+    height: 100vh;
+    width: 100vw;
+    background-color: rgb(23, 231, 196);
+}
+#page3{
+    height: 100vh;
+    width: 100vw;
+    background-color: rgb(113, 19, 235);
+}
+canvas{
+    max-width: 100vw;
+    max-height: 100vh;
 }
