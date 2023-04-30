@@ -101,6 +101,7 @@ animation-iteration-count: infinite;
     background-color: aliceblue;
     color: #000;
 }
+/* Updating Page */
 #page>h3{
     position: absolute;
     top:55%;
@@ -116,6 +117,7 @@ animation-iteration-count: infinite;
     font-weight:500;
 
 }
+/* Updating Page1 */
 #page1>#right-text{
     position: absolute;
     top: 30%;
@@ -144,6 +146,7 @@ animation-iteration-count: infinite;
     color: #7c7c7c;
     font-weight: 400;
 }
+/* Updating Page2 */
 #page2>#right-text{
     position: absolute;
     top: 30%;
@@ -157,5 +160,10 @@ animation-iteration-count: infinite;
 #page2>#right-text>h1{
     font-size: 60px;
     line-height: 1.5;
-   
+}
+#page2>#left-text{
+    position: absolute;
+    top:55%;
+    right:10%;
+    font-size: small;
 }
