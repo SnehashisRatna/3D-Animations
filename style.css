@@ -134,8 +134,6 @@ animation-iteration-count: infinite;
     top: 55%;
     right: 10%;
     text-align: end;
- 
- 
 }
 #page1>#left-text>h1{
     font-size: 50px;
@@ -145,4 +143,19 @@ animation-iteration-count: infinite;
 #page1>#left-text>h3{
     color: #7c7c7c;
     font-weight: 400;
+}
+#page2>#right-text{
+    position: absolute;
+    top: 30%;
+    left: 10%;
+}
+#page2>#right-text>h3{
+    color: #7c7c7c;
+    font-weight: 400;
+    line-height: 1.5;
+}
+#page2>#right-text>h1{
+    font-size: 60px;
+    line-height: 1.5;
+   
 }
