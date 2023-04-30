@@ -166,4 +166,31 @@ animation-iteration-count: infinite;
     top:55%;
     right:10%;
     font-size: small;
+    text-align: end;
+}
+
+/* Updating Page 3 */
+#page3>#right-text{
+    position: absolute;
+    top: 30%;
+    left: 10%;
+    line-height: 1.5;
+    font-weight: 600;
+    font-size: small;
+}
+
+#page3>#left-text{
+    position: absolute;
+    top: 55%;
+    right: 10%;
+    line-height: 1.5;
+    text-align: end;
+}
+#page3>#left-text>h1{
+    
+    font-size: 4rem;
+}
+#page3>#left-text>h3{
+   color: #7c7c7c;
+   font-weight: 400;
 }
