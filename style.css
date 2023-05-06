@@ -194,3 +194,7 @@ animation-iteration-count: infinite;
    color: #7c7c7c;
    font-weight: 400;
 }
+
+#page1>#line-one:hover{
+    scale: 24rem ;
+}
