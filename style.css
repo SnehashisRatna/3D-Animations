@@ -195,6 +195,7 @@ animation-iteration-count: infinite;
    font-weight: 400;
 }
 
-#page1>#line-one:hover{
-    scale: 24rem ;
+#page1>#right-text>h1>span:hover{
+    color: aqua;
+    /* background :transparent; */
 }
